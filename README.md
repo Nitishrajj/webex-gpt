@@ -27,4 +27,16 @@ git clone <repository-url>
 cd webex-gpt
 pip install -r requirements.txt
 
+Features
+Natural Language Understanding: The chatbot uses OpenAI GPT to understand and interpret user messages.
+
+Dynamic Responses: The bot generates dynamic responses based on the context of the conversation.
+
+Webex Integration: Communicate with the chatbot through Webex spaces.
+
+
+# Customization
+Feel free to customize the chatbot's behavior by modifying the GPT model parameters, responses, or integrating additional features.
+
+
 
